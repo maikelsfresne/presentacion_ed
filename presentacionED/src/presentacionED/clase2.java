@@ -2,6 +2,6 @@ package presentacionED;
 
 public class clase2 {
 	public static void main(String[] args) {
-		System.out.println("Mensaje de pruebas 2.1");
+		System.out.println("Mensaje de pruebas 2.9999");
 	}
 }
